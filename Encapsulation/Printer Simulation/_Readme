@@ -1,0 +1,7 @@
+Un program care simuleaza o imprimanta.
+Imprimanta are double tonerLevel (maxim 100 unitati), int noPagesPrinted, boolean isDuplex;
+1 metoda fillTonner
+1 metoda printPages - un toner de 100 unitati printeaza 2000 de pagini;
+                    - se consuma 0.05 unitati toner / pagina;
+                    - cu fiecare pagina printata scad unitatile din toner;
+                    - cand tonerul este < 0 nu se mai pot printa pagini
