@@ -1,0 +1,8 @@
+Un program care salveaza intr-un LinkedList diferite orase.
+Optiuni program :
+                    Optiuni disponibile:
+                                        apasa:
+                                                0 - pentru a iesi din program;
+                                                1 - pentru a vizita urmatorul oras;
+                                                2 - pentru a vizita orasul anterior;
+                                                3 - printeaza optiunile.
