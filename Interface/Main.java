@@ -11,9 +11,9 @@ public class Main {
 
         System.out.println("###################################");
 
-        tel1 = new MobilePhone("0723912172");
+        tel1 = new MobilePhone("0723456123");
         tel1.powerOn();
-        tel1.callPhone("0723912172");
+        tel1.callPhone("0723908434");
         tel1.answer();
 
     }
